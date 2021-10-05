@@ -14,7 +14,7 @@ if (temperature > 44 ) || (temperature == 44){
     
 }
     
-   
-print ("my friend \(name) > it is ok. you can go outside")
+else {
+    print ("my friend \(name) > it is ok. you can go outside")}
     
 
