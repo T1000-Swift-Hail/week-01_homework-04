@@ -15,3 +15,4 @@ Your friend Ahmed is visiting your city . He wants to go out today. Depending on
 
 ## Bonus
 - Use the logical operators to make the code more elegant. 
+""
