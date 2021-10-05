@@ -3,6 +3,7 @@
 Your friend Ahmed is visiting your city . He wants to go out today. Depending on the temperature of your city , make a condition to check if it is Ok to go outside or not. 
 
 ## Follow the steps:
+- create a new playground and name it "visitor"
 - create a constant for your friend Ahmed.
 - Create a constant for the temperature .
 - Set the the temperature value to 42.
